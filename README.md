@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fajarabdillah354" alt="fajarabdillah354" /></a> </p>
 
-- 🌱 I’m currently learning **Java Apache Maven**
+- 🌱 I’m currently learning **Java Apache Maven & Spring**
 
 - 📝 I regularly write articles on [https://savannahnote.blogspot.com/](https://savannahnote.blogspot.com/)
 
